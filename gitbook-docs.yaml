@@ -8,4 +8,4 @@ site:
       path: entry-python
       default: true
       content:
-        directory: ./entry-python
+        directory: ./
