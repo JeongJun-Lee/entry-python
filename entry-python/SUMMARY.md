@@ -1,0 +1,21 @@
+# Table of contents
+
+* [엔트리로 파이썬 기초 입문하기](README.md)
+* [1. 엔트리 vs 엔트리-파이썬](whatis.md)
+* [2. 엔트리-파이썬의 시작](start.md)
+* [3. 엔트리-파이썬으로 파이썬 언어의 기본문법을 익히자](basic_syntax/README.md)
+  * [3.1 Hello World 예제코드의 이해](basic_syntax/3.1-hello-world.md)
+  * [3.2 입/출력 (Input/Output)](basic_syntax/3.2-input-output.md)
+  * [3.3 변수 (Variable)](basic_syntax/3.3-variable.md)
+  * [3.4 조건 (Condition)](basic_syntax/3.4-condition.md)
+  * [3.5 반복 (Loop)](basic_syntax/3.5-loop.md)
+  * [3.6 리스트 (List)](basic_syntax/3.6-list.md)
+  * [3.7 무작위 수(Random)](basic_syntax/3.7-random.md)
+  * [3.8 함수 (Function)](basic_syntax/3.8-function.md)
+* [4. 엔트리-파이썬으로 프로그래밍의 핵심 개념을 익히자](paradigm/README.md)
+  * [4.1 순차/병렬처리 (Serial/Parallel)](paradigm/4.1-serial-parallel.md)
+  * [4.2 절차 지향형 (Procedural)](paradigm/4.2-procedural.md)
+  * [4.3 이벤트 주도형 (Event-Driven)](paradigm/4.3-event-driven.md)
+  * [4.4 객체 지향형 (Object-Oriented)](paradigm/4.4-object-oriented.md)
+* [5. 부록](appendix/README.md)
+  * [엔트리-파이썬 단축키 모음](appendix/shortcuts.md)
