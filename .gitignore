@@ -1,0 +1,9 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
