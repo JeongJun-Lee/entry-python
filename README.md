@@ -4,10 +4,10 @@
 
 #### 변경내역:
 
-| 버전   | 날짜         | 내역            |
-| ---- | ---------- | ------------- |
-| v1   | 2023/11/06 | 첫 버전 공개       |
-| v1.1 | 2024/02/25 | 함수 파트 일부 수정   |
+| 버전 | 날짜       | 내역                    |
+| ---- | ---------- | ----------------------- |
+| v1   | 2023/11/06 | 첫 버전 공개            |
+| v1.1 | 2024/02/25 | 함수 파트 일부 수정     |
 | v1.2 | 2024/07/08 | 순차/병렬처리 일부 수정 |
 
 #### **저자**: JJ ([comseong@gmail.com](./#jj-comseong-gmail.com))
@@ -18,6 +18,6 @@
 
 #### 저작권: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko)
 
-<img src=".gitbook/assets/image (14).png" alt="" width="375">
+<img src=".gitbook/assets/image (14).png" alt="" width="275">
 
 {% include "https://app.gitbook.com/s/6FcF5JzEabIky96TfV3Z/~/reusable/3pUVkHOkYOOZOHKLWWJ5/" %}
